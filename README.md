@@ -1,5 +1,6 @@
 # QueryExpressInformation
-查询快递信息
+查询快递物流信息
+
 ScrolledText放在frame里面居然insert、delete不了...放在root里面又可以了...
 
 
